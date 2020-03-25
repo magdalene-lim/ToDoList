@@ -6,7 +6,7 @@ public class Money {
 		fAmount = amount;
 		fCurrency = currency;
 	}
-
+//////test a
 	public int amount() {
 		return fAmount;
 	}
