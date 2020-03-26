@@ -3,7 +3,6 @@ public class Task {
 	private String description = null;
 	private boolean isComplete = false;
 	
-	//hello
 	public Task(String description) {
 		super();
 		this.description = description;
@@ -29,3 +28,4 @@ public class Task {
 	}
 
 }
+
